@@ -1,0 +1,4 @@
+input/*.html
+.idea/
+node_modules/
+debug.log
